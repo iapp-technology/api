@@ -1,0 +1,6 @@
+framework module Pods_IDCardAPIExample_IDCardAPIExampleUITests {
+  umbrella header "Pods-IDCardAPIExample-IDCardAPIExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
